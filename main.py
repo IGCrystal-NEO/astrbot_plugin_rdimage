@@ -11,7 +11,7 @@ import astrbot.api.message_components as Comp
 
 logger = logging.getLogger("astrbot")
 
-@register("random_image_plugin", "IGCrystal", "从某平台获取随机图片的插件（无 HTML 解析）", "1.2")
+@register("random_image_plugin", "IGCrystal", "从wenturc获取随机图片的插件（无 HTML 解析）", "1.2")
 class RandomImagePlugin(Star):
     def __init__(self, context: Context, config: dict = None):
         super().__init__(context)
