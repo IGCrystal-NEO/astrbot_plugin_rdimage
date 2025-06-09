@@ -3,4 +3,4 @@ desc: 获取随机图片来自api.wenturc.com
 help: 
 version: v1.2 
 author: IGCrystal
-repo: https://github.com/IGCrystal/astr_plugin_random_image
+repo: https://github.com/IGCrystal/astrbot_plugin_rdimage
