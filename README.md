@@ -1,4 +1,4 @@
-# random image
+# astrbot_plugin_rdimage
 
 简单的实现了从 `api.wenturc.com` 获取图片并传给用户
 
